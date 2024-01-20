@@ -1,0 +1,3 @@
+tests\TestCases.class
+com\sumergebookingtask\SumergeBookingTask\AppTest.class
+utils\ExcelReader.class

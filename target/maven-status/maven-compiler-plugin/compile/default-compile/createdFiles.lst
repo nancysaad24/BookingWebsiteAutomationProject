@@ -1,0 +1,6 @@
+pageobjects\HomePage.class
+base\BaseClass.class
+pageobjects\ReservePage.class
+com\sumergebookingtask\SumergeBookingTask\App.class
+pageobjects\ConfirmationPage.class
+pageobjects\ResultsPage.class
